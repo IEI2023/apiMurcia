@@ -1,0 +1,17 @@
+{
+  "name": "apimur",
+  "version": "1.0.0",
+  "description": "API para la obtencion o carga de datos de la comunidad de murcia",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
